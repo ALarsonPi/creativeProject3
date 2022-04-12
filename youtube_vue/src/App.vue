@@ -22,6 +22,9 @@
     </div>
   </div>
   <router-view />
+  <div class="footer">
+    <a href='https://github.com/ALarsonPi/creativeProject3.git'>Git hub Repo</a>
+  </div>
 </div>
 </template>
   
